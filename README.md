@@ -1,3 +1,6 @@
+# My cinema
+
+![github actions](https://github.com/AlexeyEsipov/job4j-cinema-jsp/actions/workflows/maven.yml/badge.svg)
 
 Это приложение можно использовать для заказа билетов в кинотеатре.
 
